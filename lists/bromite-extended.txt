@@ -2,11 +2,9 @@ https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
 https://easylist.to/easylist/easylist.txt
 https://easylist.to/easylist/easyprivacy.txt
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 https://www.i-dont-care-about-cookies.eu/abp/
 https://austinhuang.me/0131-block-list/list.txt
-https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Sensitive%20lists/TabloidRemover.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiPCPriceHiderList.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Sensitive%20lists/AntiPreacherList.txt
@@ -27,6 +25,5 @@ https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_dis
 https://filters.adtidy.org/extension/ublock/filters/2.txt
 https://filters.adtidy.org/extension/ublock/filters/3.txt
 https://filters.adtidy.org/extension/ublock/filters/11.txt
-https://fanboy.co.nz/fanboy-antifonts.txt
 https://easylist.to/easylist/fanboy-social.txt
 https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
