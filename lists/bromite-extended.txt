@@ -7,6 +7,18 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/coin-miners.txt
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+https://www.i-dont-care-about-cookies.eu/abp/
+https://austinhuang.me/0131-block-list/list.txt
+https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Sensitive%20lists/TabloidRemover.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiPCPriceHiderList.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Sensitive%20lists/AntiPreacherList.txt
+https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
+https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/blacklist.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Other%20domains%20versions/WikiaPureBrowsingExperienceDomains.txt
+https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/uBOPersonalFilters.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/uBlockFiltersPlus.txt
 
 # Annoying Elements, Cookie promts etc.
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
